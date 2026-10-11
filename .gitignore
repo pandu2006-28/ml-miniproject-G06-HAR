@@ -1,0 +1,7 @@
+pamap2_har/
+__pycache__/
+*.pyc
+*.zip
+*.dat
+*.joblib
+.ipynb_checkpoints/

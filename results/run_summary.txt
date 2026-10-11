@@ -1,0 +1,11 @@
+Best model (chosen by CV on train subjects): Extra Trees
+Train windows: 14293
+Test windows: 4908
+Features: 273
+Test accuracy: 0.9344
+Test balanced accuracy: 0.9155
+Test macro F1: 0.9270
+Test weighted F1: 0.9348
+Total minutes: 3.0
+Train subjects 101-106; test subjects 107-108; subject 109 excluded.
+Activity 0, heart rate, and orientation features excluded.

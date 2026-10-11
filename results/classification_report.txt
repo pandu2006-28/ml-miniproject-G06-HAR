@@ -1,0 +1,18 @@
+                   precision    recall  f1-score   support
+
+            Lying       1.00      0.99      0.99       495
+          Sitting       0.91      0.95      0.93       349
+         Standing       0.83      0.97      0.89       506
+          Walking       0.95      0.97      0.96       650
+          Running       0.99      0.88      0.93       199
+          Cycling       1.00      0.97      0.99       478
+   Nordic Walking       1.00      0.96      0.98       573
+ Ascending Stairs       0.95      0.90      0.93       288
+Descending Stairs       0.93      0.84      0.88       207
+  Vacuum Cleaning       0.83      0.88      0.86       455
+          Ironing       0.93      0.88      0.90       621
+     Rope Jumping       1.00      0.78      0.88        87
+
+         accuracy                           0.93      4908
+        macro avg       0.94      0.92      0.93      4908
+     weighted avg       0.94      0.93      0.93      4908
